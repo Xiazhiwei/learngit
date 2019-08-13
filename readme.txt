@@ -1,4 +1,5 @@
 git is a distributed version control system.
 git is free software.
 xzw is a prefect boy.
-git tracks changes
+git tracks changes of changes.
+my stupid boss still prefers svn.
