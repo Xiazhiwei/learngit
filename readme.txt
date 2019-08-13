@@ -4,3 +4,4 @@ xzw is a prefect boy.
 git tracks changes of changes.
 my stupid boss still prefers svn.
 hello world xzw, beauty girl!
+oh, beauty dev
